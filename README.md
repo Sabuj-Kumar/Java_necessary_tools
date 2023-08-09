@@ -9,3 +9,7 @@ spring.datasource.password=password
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
 spring.jpa.show-sql=true
 spring.jpa.hibernate.ddl-auto=update
+
+//for security purpose
+spring.security.user.name=sabuj
+spring.security.user.password=1234
